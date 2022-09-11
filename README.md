@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning math and programming at UCLA
 - 💞️ I’m looking to collaborate on any Machine Learning projects
-- 📫 How to reach me $\rightarrow$ theodore.tp.nguyen@gmail.com
+- 📫 How to reach me $\rightarrow$ theodoretnguyen@g.ucla.edu
 
 <!---
 theodoretnguyen/theodoretnguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
